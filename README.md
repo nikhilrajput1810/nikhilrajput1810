@@ -1,8 +1,15 @@
-Hi 👋, I'm Nikhil Singh
-🚀 Aspiring Software Developer | Full Stack & Python Enthusiast
+Hi there 👋, I'm Nikhil Singh
 
-I'm a Computer Science student passionate about building scalable web applications and solving real-world problems through code. I enjoy working with Python, Java, React, Node.js, and modern web technologies while continuously improving my problem-solving skills.
-## 🌐 Socials:
+🎓 B.Tech Computer Science Student
+💻 Aspiring Full Stack Developer & Python Programmer
+🚀 Passionate about building real-world web applications and solving coding problems.
+
+🌟 About Me
+🌱 Currently learning React, Node.js, and Data Structures & Algorithms
+💡 Interested in Web Development, Open Source, and Software Engineering
+🔭 Building projects to strengthen my development skills
+📚 Always exploring new technologies and best practices
+🎯 Goal: Become a skilled Software Enginee
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nikhilrajput_1810) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikhil-singh-858110272?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhilsingh12102005@gmail.com) 
 
 # 💻 Tech Stack:
